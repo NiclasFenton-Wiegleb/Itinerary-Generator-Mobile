@@ -343,14 +343,14 @@ if st.session_state.button[1] == True:
             iframe = folium.IFrame(pop_txt)
                 
             #Initialise the popup using the iframe
-            popup = folium.Popup(iframe, min_width=300, max_width=300)
+            popup = folium.Popup(iframe, min_width=100, max_width=100)
                 
             #Add each row to the map
             folium.Marker(location=[row['lat'],row['long']],
                             popup = popup, c=row['name']).add_to(m)
         
 
-        st_data = folium_static(m, width= 725)
+        st_data = folium_static(m, width= 400)
     
     # except:
 
