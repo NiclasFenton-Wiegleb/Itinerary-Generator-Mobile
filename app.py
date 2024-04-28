@@ -180,9 +180,9 @@ def select_route():
 def fix_mobile_columns():    
     st.write('''<style>
     [data-testid="column"] {
-        width: calc(33.333333% - 1rem) !important;
-        flex: 1 1 calc(33.333333% - 1rem) !important;
-        min-width: calc(33.333333% - 1rem) !important;
+        width: calc(16.66667% - 1rem) !important;
+        flex: 1 1 calc(16.66667% - 1rem) !important;
+        min-width: calc(16.66667% - 1rem) !important;
     }
     </style>''', unsafe_allow_html=True)
 
