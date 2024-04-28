@@ -324,7 +324,7 @@ if st.session_state.button[1] == True:
             df.link = link_lst
 
         m = folium.Map(location=[df.lat.mean(), df.long.mean()], 
-                        zoom_start=11, control_scale=True)
+                        zoom_start=13, control_scale=True)
 
         #Loop through each row in the dataframe
         for i,row in df.iterrows():
@@ -343,7 +343,7 @@ if st.session_state.button[1] == True:
             iframe = folium.IFrame(pop_txt)
                 
             #Initialise the popup using the iframe
-            popup = folium.Popup(iframe, min_width=100, max_width=100)
+            popup = folium.Popup(iframe, min_width=200, max_width=200)
                 
             #Add each row to the map
             folium.Marker(location=[row['lat'],row['long']],
