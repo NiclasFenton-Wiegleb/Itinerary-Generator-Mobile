@@ -324,7 +324,7 @@ if st.session_state.button[1] == True:
             df.link = link_lst
 
         m = folium.Map(location=[df.lat.mean(), df.long.mean()], 
-                        zoom_start=13, control_scale=True)
+                        zoom_start=12, control_scale=True)
 
         #Loop through each row in the dataframe
         for i,row in df.iterrows():
@@ -350,7 +350,7 @@ if st.session_state.button[1] == True:
                             popup = popup, c=row['name']).add_to(m)
         
 
-        st_data = folium_static(m, width= 300)
+        st_data = folium_static(m, width= 350)
     
     # except:
 
