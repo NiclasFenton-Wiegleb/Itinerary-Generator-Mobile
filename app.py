@@ -8,7 +8,7 @@ from streamlit_folium import st_folium, folium_static
 import streamlit.components.v1 as components  # Import Streamlit
 
 
-st.title("Manchester: Build Your Day!")
+st.title("Manchester:\n Build Your Day!")
 
 intro_txt = f"""Are you visiting Manchester? Do you live here and want to explore some new things to do in the city?
 Check out this AI generator to plan your day out! It's constantly updated with the latest recommendations and exciting new places.
