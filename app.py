@@ -10,18 +10,11 @@ import streamlit.components.v1 as components  # Import Streamlit
 
 st.title("Manchester: Build Your Day!")
 
-st.write("""You live in Manchester and love its bustling shops,
-            cafes, bars, restaurants, music venues and all the other great things there are to do around here? 
-            It seems like someone tells you every day about a hidden gem that just opened up or a really fun workshop 
-            that they went to. Not only is it hard to keep track of all the different places, gigs and activities, 
-            but when your friends come to visit and you want to show them the city you love so much - 
-            all of a sudden you’re stumped as to what to do.
-            Fear not though. This app accesses a carefully curated dataset of recommendations that allow you to build 
-            your day out!  Enjoy the carefully collected top recommendations of brunch places, activities, 
-            attractions, afternoon drink spots, restaurants and venues in the city.
-            When you hit the button below, it will give you the whole itinerary! 
-            And if you don’t like one of the suggested stops, simply swap it with another option close by, 
-            without any detours and staying on schedule.""")
+intro_txt = f"""Are you visiting Manchester? Do you live here and want to explore some new things to do in the city?
+Check out this AI generator to plan your day out! It's constantly updated with the latest recommendations and exciting new places.
+And if you already know all the places on the list, just hit the generate button again."""
+
+st.markdown(intro_txt)
 
 route_data = "./OptimalRoutes.csv"
 dataset = "./IG_neighbours.csv"
