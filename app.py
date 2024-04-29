@@ -12,7 +12,7 @@ st.title("Manchester: Build Your Day!")
 
 intro_txt = f"""Are you visiting Manchester? Do you live here and want to explore some new things to do in the city?
 Check out this AI generator to plan your day out! It's constantly updated with the latest recommendations and exciting new places.
-And if you already know all the places on the list, just hit the generate button again."""
+And if you already know some of the recommendations, use the arrows to find somewhere else close by."""
 
 st.markdown(intro_txt)
 
