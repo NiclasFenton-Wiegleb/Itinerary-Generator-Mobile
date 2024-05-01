@@ -1,22 +1,27 @@
 original_index,name,stop_1,stop_2,stop_3,stop_4,stop_5
-0,The Refuge,0,27,59,81,112
-1,Platzki,1,37,48,82,98
-2,The Koffee Pot,2,36,58,89,92
-3,The Beagle,3,38,50,76,106
-4,Evelyn’s,4,24,59,69,96
-5,Banyan - Spinningfields,5,41,53,69,96
-6,Victors,6,21,48,85,96
-7,The Pen And Pencil,7,31,59,68,92
-8,Crazy Pedro’s,8,40,59,76,106
-9,Gaucho Manchester,9,30,48,87,98
-10,Campo Blanco,10,37,48,79,96
-11,Menagerie,11,27,59,78,96
-12,Motley,12,21,48,80,109
-13,La Bandera,13,41,53,86,92
-14,Fress,14,22,56,67,102
-15,Dishoom,15,36,58,81,112
-16,Moose Coffee,16,34,60,64,101
-17,Idle Hands Coffee,17,31,59,75,96
-18,Takk,18,41,53,77,102
-19,Kong's,19,41,53,91,96
-20,Escape to Freight Island,20,25,51,88,98
+0,Ezra & Gil,0,38,60,81,115
+1,Another Heart to Feed,1,50,55,82,115
+2,TROVE,2,47,58,81,115
+3,Blanchflower,3,50,55,100,109
+4,Federal,4,43,49,9,109
+5,Mackey Mayor,5,34,55,87,109
+6,The Refuge,6,47,58,81,115
+7,Platzki,7,38,60,81,115
+8,The Koffee Pot,8,47,58,81,115
+10,Evelyn’s,10,47,58,81,115
+11,Fig + Sparrow,11,47,58,81,115
+12,Victors,12,37,61,9,121
+13,The Pen And Pencil,13,29,58,81,115
+14,Crazy Pedro’s,14,45,49,76,109
+15,Gaucho Manchester,15,36,59,70,116
+16,Campo Blanco,16,45,49,93,109
+17,Menagerie,17,45,49,87,109
+18,Motley,18,33,58,81,115
+19,La Bandera,19,29,58,81,115
+20,Fress,20,29,58,81,115
+21,Dishoom,21,50,55,94,110
+22,Moose Coffee,22,30,49,90,104
+23,Idle Hands Coffee,23,29,58,81,115
+24,Takk,24,45,49,76,109
+25,Kong's,25,45,49,88,109
+26,Escape to Freight Island,26,29,58,81,115

@@ -1,13 +1,19 @@
 name,address,hierarchy,lat_coordinates,long_coordinates,weighting,img_source,link
+Ezra & Gil,"Ezra & Gil, 20 Hilton St, Manchester M1 1FR",0,53.4821,-2.2327,1,https://www.manchestersfinest.com/eating-and-drinking/best-breakfast-and-brunch-spots-in-manchester/,https://ezraandgil.com/
+Another Heart to Feed,"Another Heart to Feed, 220 Burton Rd, Manchester M20 2LW",0,53.482963,-2.234612,1,https://www.manchestersfinest.com/eating-and-drinking/best-breakfast-and-brunch-spots-in-manchester/,https://anotherhearttofeed.co.uk/
+TROVE,"1032 Stockport Rd, Manchester M19 3WX",0,53.441223,-2.189091,1,https://www.manchestersfinest.com/eating-and-drinking/best-breakfast-and-brunch-spots-in-manchester/,
+Blanchflower,"Blanchflower, 12-14 Shaw’s Rd, Altrincham WA14 1QU",0,53.387457,-2.351286,1,https://www.manchestersfinest.com/eating-and-drinking/best-breakfast-and-brunch-spots-in-manchester/,https://www.blanchflower.co/
+Federal,"Federal, 9 Nicholas Croft, Northern Quarter, Manchester, M4 1EY",0,53.484357,-2.238722,1,https://www.manchestersfinest.com/eating-and-drinking/best-breakfast-and-brunch-spots-in-manchester/,https://federalcafe.co.uk/
+Mackey Mayor,"Smithfield Market Hall, 1 Eagle St, Manchester M4 5BU",0,53.48549,-2.235277,0.8,https://buttress.net/projects/mackie-mayor,https://www.instagram.com/mackiemayor/
 The Refuge,"Oxford St, Manchester M60 7HA",0,53.47359,-2.2401,1,https://www.facebook.com/therefugemcr,https://www.refugemcr.co.uk/
 Platzki,"229 Deansgate, Manchester M3 4EN",0,53.47888,-2.24917,1,https://www.facebook.com/platzki,https://www.platzki.com/
 The Koffee Pot,"84-86 Oldham St, Manchester M4 1LE",0,53.48314,-2.23484,1,https://www.facebook.com/thekoffeepot,https://www.thekoffeepot.co.uk/
-The Beagle,"456-458 Barlow Moor Rd, Chorlton-cum-Hardy, Manchester M21 0BQ",0,53.43246,-2.27027,1,https://www.facebook.com/thebeaglesabout,https://www.beaglesabout.com/
-Evelyn,"44 Tib St, Manchester M4 1LA",0,53.483089,-2.23579,0.85,https://www.facebook.com/Evelynscafebar,https://www.evelynscafebar.com/
-Banyan - Spinningfields,"Vantage Point, Manchester M3 3PL",0,53.456799,-2.13519,1,https://www.facebook.com/BanyanSpinMCR,https://www.banyanbar.co.uk/bars/spinningfields
+The Beagle,"456-458 Barlow Moor Rd, Chorlton-cum-Hardy, Manchester M21 0BQ",3,53.43246,-2.27027,1,https://www.facebook.com/thebeaglesabout,https://www.beaglesabout.com/
+Evelyn’s,"44 Tib St, Manchester M4 1LA",0,53.483089,-2.23579,0.85,https://www.facebook.com/Evelynscafebar,https://www.evelynscafebar.com/
+Fig + Sparrow,"20 Oldham St, Manchester M1 1JA",0,53.482544,-2.235647,1,https://www.facebook.com/FigSparrow/photos_by,https://www.instagram.com/figsparrow/?hl=en
 Victors,"46 London Rd, Alderley Edge SK9 7DZ",0,53.300362,-2.23619,1,https://www.facebook.com/VictorsRestaurantAlderleyEdge,https://www.victors.co.uk/venues/alderley-edge/
 The Pen And Pencil,"Fourways House, 57 Hilton St, Manchester M1 2EJ",0,53.48122,-2.2317,1,https://www.facebook.com/thepenandpencil,https://thepenandpencilnq.co.uk/
-Crazy Pedro,"55-57 Bridge St, M3 3BQ",0,53.481312,-2.25055,1,https://www.facebook.com/CrazyPedros,https://crazypedros.co.uk/manchester/
+Crazy Pedro’s,"55-57 Bridge St, M3 3BQ",0,53.481312,-2.25055,1,https://www.facebook.com/CrazyPedros,https://crazypedros.co.uk/manchester/
 Gaucho Manchester,"2A St Mary's St, Manchester M3 2LB",0,53.51145,-2.18211,1,https://www.facebook.com/GauchoMCR,https://gauchorestaurants.com/menus/manchester/
 Campo Blanco,"1 Moss Ln, Whitefield, Manchester M45 6QE",0,53.54806,-2.29226,1,https://www.facebook.com/campoblanco/about,https://www.campoblanco.co.uk/
 Menagerie,"New Bailey, Ground One, New Bailey St, Salford M3 5JL",0,53.48221,-2.25375,1,https://www.facebook.com/MenagerieMCR/about,https://menagerierestaurant.co.uk/
@@ -60,8 +66,11 @@ The Liars Club,"The Liars Club, Back Bridge Street, Manchester M3 2PB",2,53.4813
 The Fitzgerald,"The Fitzgerald, Little Lever Street, Manchester M1 1DB",2,53.48366,-2.23136,1,https://www.thefitzgeraldmanchester.com/gallery,https://www.thefitzgeraldmanchester.com/gallery
 Gas Lamp,"The Gas Lamp, Bridge Street, Manchester, M3 3BW",2,53.48134,-2.25052,0.85,https://www.facebook.com/thegaslamp/photos_by,https://www.thegaslampmanchester.co.uk/
 Arcane,"2 South King Street, Manchester, M2 6EX",2,53.48101,-2.24712,1,https://www.facebook.com/arcanebar/photos_by,https://cocktailbarmanchester.com/
+Terrace,"43 Thomas St, Manchester M4 1NA",2,53.484046,-2.236727,1,https://www.facebook.com/profile.php?id=100039828019257&sk=photos_by,https://www.instagram.com/nqterrace/?hl=en
 Wood and Company,"39 South King Street, Manchester, M2 6DE",2,53.48098,-2.24614,1,https://www.facebook.com/woodandcompanybar/photos_by,https://woodandcobar.com/
 Goodtime Games,"212 Burton Rd, West Didsbury, Manchester M20 2LW",1,53.42659,-2.24289,1,https://www.facebook.com/GoodtimeGames.Manc/photos_by,https://goodtimegames.co.uk/
+Happy Seasons,"59 Faulkner St, Manchester M1 4FF",3,53.477896,-2.240622,1,https://www.eatmcr.co.uk/featured/the-renaissance-of-happy-seasons/,https://happy-seasons.co.uk/
+I Am Pho,"44 George St, Manchester M1 4HF",3,53.479354,-2.240114,1,https://www.manchestersfinest.com/places/i-am-pho/,https://www.manchestersfinest.com/places/i-am-pho/
 Volta,"167 Burton Rd, West Didsbury, Manchester M20 2LN",3,53.42637,-2.24295,1,https://www.facebook.com/voltafoodanddrink/photos_by,https://www.voltafoodanddrink.co.uk/
 Tattu,"3 Hardman Square, Gartside St, M3 3EB.",3,53.47994,-2.25308,1,https://www.facebook.com/TattuMCR/photos_by,https://tattu.co.uk/locations/manchester/
 Bar San Juan,"56 Beech Rd, Chorlton-cum-Hardy, Manchester M21 9EG",3,53.43877,-2.28168,0.85,https://www.facebook.com/barsanjuantapas/photos_by,https://www.barsanjuan.com/
@@ -112,3 +121,4 @@ Matt and Phreds,"64 Tib St, Manchester M4 1LW",4,53.48362,-2.23488,0.85,https://
 Frog and Bucket,"102 Oldham St, Manchester M4 1LJ",4,53.48325,-2.23402,1,https://www.facebook.com/thefrogandbucket/photos_by,https://frogandbucket.com/
 Firehouse,"40 Swan St, Manchester M4 5JG",4,53.48572,-2.2347,1,https://www.facebook.com/Firehousemcr/photos_by,https://www.firehousemcr.com/
 The White Hotel,"Dickinson St, Salford M3 7LW",4,53.491909,-2.25183,1,https://www.vice.com/en/article/vbmdnm/salford-best-clubbing-in-uk,https://ra.co/clubs/112509
+The Star & Garter,"18-20 Fairfield St, Manchester M1 2QF",4,53.476108,-2.22754,1,https://www.creativetourist.com/venue/the-star-garter/,https://www.starandgarter.co.uk/
