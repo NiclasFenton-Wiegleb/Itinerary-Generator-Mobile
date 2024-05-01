@@ -166,7 +166,7 @@ def previous_evening(button):
 
 
 def select_route():
-    st.session_state.route_idx[0] = random.randint(0, len(route_data))
+    st.session_state.route_idx[0] = random.randint(0, (len(route_data)-1))
     st.session_state.button[1] = True
 
 #Fixing issue of buttons going over rows in mobile version
