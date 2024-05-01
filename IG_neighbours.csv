@@ -1,117 +1,114 @@
 ,name,address,hierarchy,lat_coordinates,long_coordinates,weighting,img_source,link,neighbour_1,neighbour_2,neighbour_3
-0,Ezra & Gil,"Ezra & Gil, 20 Hilton St, Manchester M1 1FR",0,53.4821,-2.2327,1.0,https://www.manchestersfinest.com/eating-and-drinking/best-breakfast-and-brunch-spots-in-manchester/,https://ezraandgil.com/,21,22,12
-1,Another Heart to Feed,"Another Heart to Feed, 220 Burton Rd, Manchester M20 2LW",0,53.482963,-2.234612,1.0,https://www.manchestersfinest.com/eating-and-drinking/best-breakfast-and-brunch-spots-in-manchester/,https://anotherhearttofeed.co.uk/,8,18,23
-2,TROVE,"1032 Stockport Rd, Manchester M19 3WX",0,53.441223,-2.189091,1.0,https://www.manchestersfinest.com/eating-and-drinking/best-breakfast-and-brunch-spots-in-manchester/,,24,12,22
-3,Blanchflower,"Blanchflower, 12-14 Shaw’s Rd, Altrincham WA14 1QU",0,53.387457,-2.351286,1.0,https://www.manchestersfinest.com/eating-and-drinking/best-breakfast-and-brunch-spots-in-manchester/,https://www.blanchflower.co/,16,7,19
+0,Ezra & Gil,"Ezra & Gil, 20 Hilton St, Manchester M1 1FR",0,53.4821,-2.2327,1.0,https://www.manchestersfinest.com/eating-and-drinking/best-breakfast-and-brunch-spots-in-manchester/,https://ezraandgil.com/,20,21,12
+1,Another Heart to Feed,"Another Heart to Feed, 220 Burton Rd, Manchester M20 2LW",0,53.482963,-2.234612,1.0,https://www.manchestersfinest.com/eating-and-drinking/best-breakfast-and-brunch-spots-in-manchester/,https://anotherhearttofeed.co.uk/,8,17,22
+2,TROVE,"1032 Stockport Rd, Manchester M19 3WX",0,53.441223,-2.189091,1.0,https://www.manchestersfinest.com/eating-and-drinking/best-breakfast-and-brunch-spots-in-manchester/,,23,12,21
+3,Blanchflower,"Blanchflower, 12-14 Shaw’s Rd, Altrincham WA14 1QU",0,53.387457,-2.351286,1.0,https://www.manchestersfinest.com/eating-and-drinking/best-breakfast-and-brunch-spots-in-manchester/,https://www.blanchflower.co/,16,7,18
 4,Federal,"Federal, 9 Nicholas Croft, Northern Quarter, Manchester, M4 1EY",0,53.484357,-2.238722,1.0,https://www.manchestersfinest.com/eating-and-drinking/best-breakfast-and-brunch-spots-in-manchester/,https://federalcafe.co.uk/,10,11,5
-5,Mackey Mayor,"Smithfield Market Hall, 1 Eagle St, Manchester M4 5BU",0,53.48549,-2.235277,0.8,https://buttress.net/projects/mackie-mayor,https://www.instagram.com/mackiemayor/,23,18,8
-6,The Refuge,"Oxford St, Manchester M60 7HA",0,53.47359,-2.2401,1.0,https://www.facebook.com/therefugemcr,https://www.refugemcr.co.uk/,11,22,21
-7,Platzki,"229 Deansgate, Manchester M3 4EN",0,53.47888,-2.24917,1.0,https://www.facebook.com/platzki,https://www.platzki.com/,17,19,16
-8,The Koffee Pot,"84-86 Oldham St, Manchester M4 1LE",0,53.48314,-2.23484,1.0,https://www.facebook.com/thekoffeepot,https://www.thekoffeepot.co.uk/,1,18,10
-9,The Beagle,"456-458 Barlow Moor Rd, Chorlton-cum-Hardy, Manchester M21 0BQ",3,53.43246,-2.27027,1.0,https://www.facebook.com/thebeaglesabout,https://www.beaglesabout.com/,91,34,68
+5,Mackey Mayor,"Smithfield Market Hall, 1 Eagle St, Manchester M4 5BU",0,53.48549,-2.235277,0.8,https://buttress.net/projects/mackie-mayor,https://www.instagram.com/mackiemayor/,22,17,8
+6,The Refuge,"Oxford St, Manchester M60 7HA",0,53.47359,-2.2401,1.0,https://www.facebook.com/therefugemcr,https://www.refugemcr.co.uk/,11,21,20
+7,Platzki,"229 Deansgate, Manchester M3 4EN",0,53.47888,-2.24917,1.0,https://www.facebook.com/platzki,https://www.platzki.com/,19,18,16
+8,The Koffee Pot,"84-86 Oldham St, Manchester M4 1LE",0,53.48314,-2.23484,1.0,https://www.facebook.com/thekoffeepot,https://www.thekoffeepot.co.uk/,1,17,10
+9,The Beagle,"456-458 Barlow Moor Rd, Chorlton-cum-Hardy, Manchester M21 0BQ",3,53.43246,-2.27027,1.0,https://www.facebook.com/thebeaglesabout,https://www.beaglesabout.com/,88,32,66
 10,Evelyn’s,"44 Tib St, Manchester M4 1LA",0,53.483089,-2.23579,0.85,https://www.facebook.com/Evelynscafebar,https://www.evelynscafebar.com/,11,8,1
 11,Fig + Sparrow,"20 Oldham St, Manchester M1 1JA",0,53.482544,-2.235647,1.0,https://www.facebook.com/FigSparrow/photos_by,https://www.instagram.com/figsparrow/?hl=en,10,8,1
-12,The Pen And Pencil,"Fourways House, 57 Hilton St, Manchester M1 2EJ",0,53.48122,-2.2317,1.0,https://www.facebook.com/thepenandpencil,https://thepenandpencilnq.co.uk/,0,22,21
-13,Crazy Pedro’s,"55-57 Bridge St, M3 3BQ",3,53.481312,-2.25055,1.0,https://www.facebook.com/CrazyPedros,https://crazypedros.co.uk/manchester/,80,71,69
-14,Gaucho Manchester,"2A St Mary's St, Manchester M3 2LB",0,53.51145,-2.18211,1.0,https://www.facebook.com/GauchoMCR,https://gauchorestaurants.com/menus/manchester/,24,12,0
-15,Campo Blanco,"1 Moss Ln, Whitefield, Manchester M45 6QE",0,53.54806,-2.29226,1.0,https://www.facebook.com/campoblanco/about,https://www.campoblanco.co.uk/,16,19,7
-16,Menagerie,"New Bailey, Ground One, New Bailey St, Salford M3 5JL",0,53.48221,-2.25375,1.0,https://www.facebook.com/MenagerieMCR/about,https://menagerierestaurant.co.uk/,19,7,4
-17,Motley,"115 Deansgate, Manchester M3 2NW",0,53.47888,-2.24917,1.0,https://www.facebook.com/motleymanchester1/about,https://motleymanchester.co.uk/,7,19,16
-18,Fress,"62 Oldham St, Manchester M4 1LE",0,53.48363,-2.23405,1.0,https://www.facebook.com/fressnq/about,https://fress.uk/,23,1,8
-19,Dishoom,"32 Bridge St, Manchester M3 3BT",0,53.481339,-2.25052,0.85,https://www.facebook.com/dishoommanchester/about,https://www.dishoom.com/manchester/,7,16,4
-20,Moose Coffee,"Barton Arcade, Manchester M3 2BW",0,53.47888,-2.24917,1.0,https://www.moosecoffee.co/,https://www.moosecoffee.co/,7,19,16
-21,Idle Hands Coffee,"35 Dale St, Manchester M1 2HF",0,53.48131,-2.23318,1.0,https://www.idlehandscoffee.com/,https://www.idlehandscoffee.com/,22,0,12
-22,Takk,"6 Tariff St, Manchester M1 2FF",0,53.481022,-2.23309,1.0,https://www.facebook.com/takkmcr/photos_by,https://takkmcr.com/,21,0,12
-23,Kong's,"101, 103 Oldham St, Manchester M4 1LW",0,53.48378,-2.23405,1.0,https://www.facebook.com/profile.php?id=100075906057462&sk=about,https://www.manchestersfinest.com/places/kongs-nq/,18,1,8
-24,Escape to Freight Island,"11 Baring St, Manchester M1 2PZ",0,53.47637,-2.22709,1.0,https://www.facebook.com/freightisland/about,https://www.escapetofreightisland.com/,12,22,21
-25,Manchester Art Gallery,"Mosley St, Manchester M2 3JL",1,53.479721,-2.24077,1.0,https://www.facebook.com/ManchesterArtGallery/photos_of,https://manchesterartgallery.org/,39,38,37
-26,HOME,"2 Tony Wilson Pl, Manchester M15 4FN",1,53.47398,-2.24569,0.85,https://www.facebook.com/HOMEmcr/photos_by,https://homemcr.org/,46,25,31
-27,Rogue Artists’ Studios,"4 Barrass St, Openshaw, Manchester M11 1WP",1,53.47061,-2.16822,1.0,https://www.facebook.com/RogueArtistsStudios/photos_by,https://rastudios.co.uk/,42,41,30
-28,Salford Museum and Art Gallery,"Crescent, Salford M5 4WU",1,53.481281,-2.29699,1.0,https://www.facebook.com/pages/Salford%20Museum%20and%20Art%20Gallery/143042155712756/photos/,https://salfordmuseum.com/,29,33,34
-29,The Lowry,"The Quays, Salford M50 3AZ",1,53.47165,-2.28797,1.0,https://en.wikipedia.org/wiki/The_Lowry,https://thelowry.com/,28,33,34
-30,The Whitworth,"Oxford Rd, Manchester M15 6ER",1,53.464081,-2.23148,1.0,https://www.facebook.com/thewhitworth/photos_by,https://www.whitworth.manchester.ac.uk/,31,36,26
-31,Holden Gallery,"Grosvenor Building, Metropolitan University, Cavendish St, Manchester M15 6BR",1,53.46938,-2.23967,1.0,https://www.facebook.com/HoldenGallery/photos_by,https://www.holdengallery.mmu.ac.uk/,26,30,36
-32,Gallery Oldham,"35 Greaves St, Oldham OL1 1AL",1,53.54067,-2.11021,1.0,https://www.manchestersfinest.com/uncategorized/exploring-art-greater-manchester-gallery-oldham/,https://hla.oldham.gov.uk/,27,42,41
-33,Factory International,"Aviva Studios, Water St, Manchester M3 4JQ",1,53.47807,-2.258031,0.85,https://www.facebook.com/factoryinternational/photos_by,https://factoryinternational.org/,26,39,36
-34,Pottery Corner,"34 Beech Rd, Chorlton-cum-Hardy, Greater, Manchester M21 9EL",1,53.43877,-2.28168,1.0,https://www.facebook.com/PotteryCornerChorlton/photos_by,https://www.potterycorner.co.uk/,29,35,65
-35,Seven Limes Pottery,"Unit 5, The, Windrush Millennium Centre, 70 Alexandra Rd, Manchester M16 7WD",1,53.46005,-2.25223,1.0,https://www.facebook.com/7limespottery/photos_by,https://7limes.co.uk/,36,26,31
-36,Clay Studio," 61 Old Birley St, Hulme, Manchester M15 5RF",1,53.46469,-2.24849,1.0,https://www.facebook.com/manchesterclaystudio/photos_by,https://www.claystudio.co.uk/,35,26,31
-37,Boom Battle Bar,"Unit 2A, The Printworks, 27 Withy Grove, Manchester M4 2BS",1,53.48454,-2.24093,1.0,https://www.facebook.com/media/set/?set=a.672571578217478&type=3,https://boombattlebar.com/uk/,39,38,25
-38,Virtual Hideout,"51 Church St, Manchester M4 1PD",1,53.483021,-2.2376,1.0,https://www.virginexperiencedays.co.uk/product/vr-experience-for-two-virtual-hideout-manchester,https://virtualhideoutmanchester.com/,43,37,25
-39,DNA VR,"30 Brown St, Manchester M2 1DH",1,53.48136,-2.24233,1.0,https://www.tripadvisor.co.uk/Attraction_Review-g187069-d25355092-Reviews-DNA_VR_Manchester-Manchester_Greater_Manchester_England.html,https://www.dnavr.co.uk/?gad_source=1&gclid=Cj0KCQjw5cOwBhCiARIsAJ5njuaUtjrNxE2ukZA3LRHoZ-WnQ4Hp0vCSmfGZz10UWnf4r7lIJG0ho5EaArtvEALw_wcB,25,37,38
-40,Sken Studios,"First Floor, 100 School Rd, Sale, M33 7XB",1,53.42503,-2.32145,1.0,https://www.skenstudios.com/workshops,https://www.skenstudios.com/,34,29,28
-41,Cork and Canvas,"23 Radium St, Ancoats, Manchester M4 6AY",1,53.48506,-2.22583,1.0,https://www.facebook.com/corkandcanvasmcr/photos,https://www.corkandcanvas.co.uk/,43,38,42
-42,Ma Lumiere,"2 Sawley Rd, Miles Platting, Manchester M40 8BB",1,53.49202,-2.21367,1.0,https://www.facebook.com/MaLumiereCandles/photos_by,https://www.malumiere.co.uk/workshops,41,43,38
-43,Northern Flower,"58 Tib St, Greater, Manchester M4 1LG",1,53.4835,-2.23507,1.0,https://www.facebook.com/northernflower/photos_by,https://northernflower.com/,38,37,25
-44,NQ64,"12 Tib St, Manchester M4 1SH",2,53.48331,-2.23551,1.0,https://www.facebook.com/NQ64mcr/photos_by,https://nq64.co.uk/,53,63,47
-45,Twenty Twenty Two,"The Basement, Little Lever St, Manchester M1 1EZ",2,53.48366,-2.23136,1.0,https://www.facebook.com/TTTMCR/photos_by,https://twentytwentytwo.co.uk/,60,56,57
-46,Junkyard Golf Club,"2 First St, Manchester M15 4RP",1,53.47398,-2.24569,1.0,https://www.manchesterbars.com/junkyardgolf.htm,https://www.junkyardgolfclub.co.uk/manchester/,26,25,31
-47,Pixel Bar,"10 Thomas St, Manchester M4 1DH",2,53.4843,-2.23708,1.0,https://www.facebook.com/PixelBarUK/photos_by,https://www.pixel-bar.co.uk/manchester,55,63,49
-48,The Temple of Convenience,"100 Great Bridgewater St, Manchester M1 5JW",2,53.47519,-2.24329,0.85,https://oxfordroadcorridor.com/venues/the-temple/,https://www.instagram.com/temple_mcr/,64,62,58
-49,Convenience Store,"100 High Street, Northern Quarter, M4 1HP",2,53.48408,-2.23834,1.0,https://www.facebook.com/CONstoreNQ/photos_by,https://www.conveniencestorenq.com/,54,47,63
-50,Blind Tyger,"Old Bank Street, Manchester",2,53.47516,-2.21378,1.0,https://www.facebook.com/blindtygermcr/photos,https://blindtyger.co.uk/blind-tyger-manchester/,52,45,51
-51,Northern Monk Refectory,"10 Tariff St, Manchester M1 2FF",2,53.481215,-2.232418,1.0,https://www.facebook.com/NMRefectoryMCR/photos_by,https://www.northernmonk.com/,57,56,45
-52,Cloudwater Unit 9,"7-8, Piccadilly Trading Estate, M1 2NP",2,53.47742,-2.22028,1.0,https://www.facebook.com/CloudwaterUnit9/photos_by,https://cloudwaterbrew.co/pages/visit-us,50,45,51
-53,Behind Closed Doors,"91-95 Oldham Street, Northern Quarter, Manchester, M4 1LW",2,53.48364,-2.23426,1.0,https://www.facebook.com/bcdnq/photos_by,https://bcdnq.com/,44,56,57
-54,The Washhouse,"19 Shudehill, M4 2AF",2,53.48465,-2.23944,1.0,https://www.facebook.com/washhousemcr/photos_by,https://www.washhousemcr.com/,49,47,63
-55,Cane and Grain,"Cane and Grain, 49-51 Thomas Street, Manchester M4 1N",2,53.4843,-2.23708,1.0,https://www.facebook.com/caneandgrainmcr/photos_by,https://caneandgrain.co.uk/,47,63,49
-56,Dusk til Pawn,"Dusk til Pawn, Stevenson Square, Northern Quarter",2,53.48314,-2.23288,1.0,https://www.facebook.com/Dusktilpawn/photos_by,https://www.dusktilpawn.co.uk/,57,53,45
-57,Hold Fast,"Hold Fast, Hatters Hostel, Newton Street (bar entrance on Hilton Street) M1 2EA",2,53.48212,-2.23256,1.0,https://www.facebook.com/holdfastbarnq/?locale=en_GB,https://www.facebook.com/holdfastbarnq/?locale=en_GB,51,56,45
-58,Corbieres,"Corbieres, 2 Half Moon Street, Manchester M2 7PB",2,53.48223,-2.2448,1.0,https://www.facebook.com/corbieresbar/photos_by,https://www.instagram.com/corbieresbar/?hl=en,64,62,59
-59,The Liars Club,"The Liars Club, Back Bridge Street, Manchester M3 2PB",2,53.4813,-2.24928,1.0,https://www.facebook.com/TheLiarsClubMCR/photos_by,https://www.theliarsclub.co.uk/,61,62,64
-60,The Fitzgerald,"The Fitzgerald, Little Lever Street, Manchester M1 1DB",2,53.48366,-2.23136,1.0,https://www.thefitzgeraldmanchester.com/gallery,https://www.thefitzgeraldmanchester.com/gallery,45,56,57
-61,Gas Lamp,"The Gas Lamp, Bridge Street, Manchester, M3 3BW",2,53.48134,-2.25052,0.85,https://www.facebook.com/thegaslamp/photos_by,https://www.thegaslampmanchester.co.uk/,59,62,64
-62,Arcane,"2 South King Street, Manchester, M2 6EX",2,53.48101,-2.24712,1.0,https://www.facebook.com/arcanebar/photos_by,https://cocktailbarmanchester.com/,64,59,58
-63,Terrace,"43 Thomas St, Manchester M4 1NA",2,53.484046,-2.236727,1.0,https://www.facebook.com/profile.php?id=100039828019257&sk=photos_by,https://www.instagram.com/nqterrace/?hl=en,47,44,49
-64,Wood and Company,"39 South King Street, Manchester, M2 6DE",2,53.48098,-2.24614,1.0,https://www.facebook.com/woodandcompanybar/photos_by,https://woodandcobar.com/,62,58,59
-65,Goodtime Games,"212 Burton Rd, West Didsbury, Manchester M20 2LW",1,53.42659,-2.24289,1.0,https://www.facebook.com/GoodtimeGames.Manc/photos_by,https://goodtimegames.co.uk/,35,36,30
-66,Happy Seasons,"59 Faulkner St, Manchester M1 4FF",3,53.477896,-2.240622,1.0,https://www.eatmcr.co.uk/featured/the-renaissance-of-happy-seasons/,https://happy-seasons.co.uk/,67,75,73
-67,I Am Pho,"44 George St, Manchester M1 4HF",3,53.479354,-2.240114,1.0,https://www.manchestersfinest.com/places/i-am-pho/,https://www.manchestersfinest.com/places/i-am-pho/,66,75,73
-68,Volta,"167 Burton Rd, West Didsbury, Manchester M20 2LN",3,53.42637,-2.24295,1.0,https://www.facebook.com/voltafoodanddrink/photos_by,https://www.voltafoodanddrink.co.uk/,83,9,87
-69,Tattu,"3 Hardman Square, Gartside St, M3 3EB.",3,53.47994,-2.25308,1.0,https://www.facebook.com/TattuMCR/photos_by,https://tattu.co.uk/locations/manchester/,13,80,71
-70,Bar San Juan,"56 Beech Rd, Chorlton-cum-Hardy, Manchester M21 9EG",3,53.43877,-2.28168,0.85,https://www.facebook.com/barsanjuantapas/photos_by,https://www.barsanjuan.com/,9,68,86
-71,Australasia,"1 The Avenue, Deansgate, Manchester M3 3AP",3,53.479949,-2.248663,1.0,https://www.facebook.com/australasia.manchester/photos_by,https://australasia.uk.com/,80,13,69
-72,The Edinburgh Castle,"17 Blossom St, Ancoats, Manchester M4 5EP",3,53.48415,-2.229839,1.0,https://www.facebook.com/ECAncoats/photos,https://www.ec-ancoats.com/,77,78,81
-73,Sicilian NQ Bar and Bistro,"14 Turner St, Manchester M4 1DZ",3,53.48358,-2.23747,1.0,https://www.facebook.com/SicilianFoodNQ/photos_by,https://www.siciliannq.com/,85,90,93
-74,20 Stories,"1 Hardman St, Manchester M3 3EB",3,53.50658,-2.16762,1.0,https://www.facebook.com/20storiesmcr/photos_by,https://20stories.co.uk/,92,81,78
-75,Bundobust Brewery,"St James's Bldg, Bundobust Brewery, 61-69 Oxford St, Manchester M1 6EQ",3,53.475197,-2.241586,1.0,https://www.facebook.com/bundobustmcr/photos_by,https://bundobust.com/manchester/,66,88,67
-76,Delhi House Cafe,"Unit 10 Exchange Sq, Manchester M4 3TR",3,53.48465,-2.243,1.0,https://www.facebook.com/delhihousecafe/photos_by,https://delhihousecafe.uk/,79,85,73
-77,Canto,"Cutting Room Square, Blossom St, Ancoats, Manchester M4 5DH",3,53.484145,-2.229757,0.85,https://www.facebook.com/cantomcr,https://www.cantorestaurant.com/food-and-drinks-menus/,72,78,81
-78,Elnecot,"Cutting Room Square, 41 Blossom St, Ancoats, Manchester, M4 6AJ",3,53.48436,-2.22947,1.0,https://www.facebook.com/elnecot/photos_by,https://elnecot.com/,89,77,72
-79,Wholesome Junkies,"Unit 4 Mirabel St, Manchester M3 1PJ",3,53.4877,-2.24619,1.0,https://www.facebook.com/Wholesomejunkies/photos_by,https://www.wholesomejunkies.co.uk/,76,13,80
-80,MUSU,"64 Bridge St, Manchester M3 3BN",3,53.481251,-2.25048,1.0,https://www.facebook.com/musumcr/photos_by,https://musumcr.com/,13,71,69
-81,Erst,"9 Murray St, Ancoats, Manchester M4 6HS",3,53.48427,-2.22746,1.0,https://www.facebook.com/erstmcr/photos,https://www.erst-mcr.co.uk/,92,78,77
-82,Where The Light Gets In,"7 Rostron Brow, Stockport SK1 1JY",3,53.41087,-2.1559,1.0,https://www.facebook.com/pages/Where%20the%20Light%20Gets%20in/1203803073020584/photos/,https://www.wtlgi.co/,83,87,68
-83,Hispi,"1C School Ln, Didsbury, Manchester M20 6RD",3,53.41743,-2.22902,1.0,https://www.facebook.com/HISPIDidsbury/photos_by,https://www.hispi.net/,68,87,9
-84,Dokes Pizzeria,"449A Bury New Rd, Prestwich, Manchester M25 1AF",3,53.53233,-2.28485,1.0,https://www.facebook.com/profile.php?id=100083278001859&sk=photos,https://www.dokespizzeria.co.uk/,79,69,13
-85,Salvi's NQ,"60-67A High St, Manchester M4 1FS",3,53.48421,-2.23815,1.0,https://www.creativetourist.com/venue/salvi-s-northern-quarter/,https://salvismanchester.co.uk/restaurants/salvis-nq/,73,90,93
-86,Wood,"Jack Rosenthal St, Manchester M15 4RA",3,53.473406,-2.246546,0.85,https://woodrestaurantgroup.com/about/,https://woodrestaurantgroup.com/about/,88,75,71
-87,Ziya,"65-67 Wilmslow Rd, Manchester M14 5TB",3,53.456208,-2.225531,1.0,https://www.facebook.com/ziyarestaurant/photos_by,https://ziyarestaurant.co.uk/,88,75,66
-88,Zouk,"5, The Quadrangle, Chester St, Manchester M1 5QS",3,53.4716,-2.24233,1.0,https://www.facebook.com/ZoukTeaBar/photos_by,https://zoukteabar.co.uk/,75,86,66
-89,The Hip Hop Chip Shop,"44 Blossom St, Ancoats, Manchester M4 6BF",3,53.48436,-2.22947,1.0,https://www.facebook.com/thehiphopchipshop/photos_by,https://thehiphopchipshop.com/,78,77,72
-90,63 Degrees,"104 High St, Manchester M4 1HQ",3,53.484692,-2.23671,1.0,https://www.facebook.com/63degreespako/photos_by,https://63degrees.co.uk/,73,85,93
-91,The Little Yeti,"495 Barlow Moor Rd, Chorlton-cum-Hardy, Manchester M21 8AG",3,53.43246,-2.27027,1.0,https://www.facebook.com/littleyetimcr/photos_by,https://www.littleyetimcr.com/,9,34,68
-92,Rigatoni's,"46 Blossom St, Ancoats, Manchester M4 6BA",3,53.484989,-2.227076,1.0,https://www.facebook.com/rigatonisancoats/photos_by,https://www.letsrigatoni.co.uk/,81,78,77
-93,Birria Brothers,"84-86 Oldham St, Northern Quarter, Manchester M4 1LE",3,53.484123,-2.233392,1.0,https://www.instagram.com/birria_brothers_tacos/?hl=en,https://www.birriabrotherstacos.co.uk/,90,72,77
-94,Depot Mayfield,"11 Baring St, Manchester M1 2PY",4,53.47511,-2.22782,1.0,https://www.facebook.com/depotmayfield/photos_by,https://depotmayfield.com/,115,109,105
-95,Gorilla,"54-56 Whitworth St, Manchester M1 5WW",4,53.474018,-2.24657,1.0,https://www.facebook.com/gorilla.bar.kitchen.stage.club/photos_by,https://www.thisisgorilla.com/,106,100,107
-96,Deaf Institute,"135 Grosvenor St, Manchester M1 7HE",4,53.47015,-2.23712,1.0,https://confidentialguides.com/things-to-do/attractions/music-venues/the-deaf-institute-manchester-restaurant/,https://www.thedeafinstitute.co.uk/,107,109,30
-97,Eagle Inn,"19 Collier St, Salford M3 7DW",4,53.48746,-2.25121,1.0,https://www.facebook.com/eagleinnsalford/photos_by,https://eagleinn.co.uk/,99,114,100
-98,Manchester Academy,"Manchester University Students Union, Oxford Rd, Manchester M13 9PR",4,53.464081,-2.23148,1.0,https://www.facebook.com/manchesteracademy/photos_by,https://www.manchesteracademy.net/,103,96,94
-99,Hidden,"16-18 Mary St, Cheetham Hill, Manchester M3 1NH",4,53.490082,-2.24911,1.0,https://www.facebook.com/hddenmcr/photos_by,https://hiddenmcr.com/,114,97,110
-100,Albert Hall,"City Centre, 27 Peter St, Manchester M2 5QR",4,53.478142,-2.24795,1.0,https://www.facebook.com/alberthallmanchester/photos_by,https://www.alberthallmanchester.com/,95,97,107
-101,Band On The Wall,"25 Swan St, Manchester M4 5JZ",4,53.48522,-2.23391,1.0,https://www.facebook.com/bandonthewall/photos_by,https://bandonthewall.org/,113,108,105
-102,The Loft MCR,"Unit One New St, Manchester M40 8AW",4,53.49507,-2.20788,0.85,https://www.facebook.com/theloftmcr/photos,https://ra.co/clubs/190058,115,101,94
-103,Big Hands,"296 Oxford Rd, Manchester M13 9NS",4,53.462959,-2.23008,1.0,https://www.facebook.com/BigHandsBar/?locale=en_GB,https://www.facebook.com/BigHandsBar/?locale=en_GB,30,96,94
-104,Cafe Blah,"418 Wilmslow Rd, Withington, Manchester M20 3BW",4,53.43516,-2.22743,1.0,https://www.facebook.com/cafeblah/?locale=en_GB,https://www.facebook.com/cafeblah/?locale=en_GB,103,30,96
-105,Soup,"31-33 Spear St, Manchester M1 1DF",4,53.483398,-2.23358,1.0,https://www.facebook.com/soupmanchester/photos,https://www.soupmanchester.com/,112,108,111
-106,O2 Ritz,"Whitworth St W, Manchester M1 5NQ",4,53.474018,-2.24657,1.0,https://www.facebook.com/o2ritzmanchester/photos_by,https://www.academymusicgroup.com/o2ritzmanchester/,95,100,107
-107,YES,"38 Charles St, Manchester M1 7DB",4,53.473949,-2.23827,1.0,https://www.facebook.com/yesmanchester/photos_by,https://www.yes-manchester.com/,109,96,95
-108,Gullivers,"109 Oldham St, Manchester M4 1LW",4,53.483871,-2.23393,1.0,https://www.mdmarchive.co.uk/artefact/13829/Blossoms-Gullivers-Photograph-2014,https://gulliversnq.info/,105,112,111
-109,Jashua Brooks,"106 Princess St, Manchester M1 6NG",4,53.47437,-2.23746,1.0,https://www.facebook.com/joshuabrooksmanchester/photos_by,https://joshuabrooks.co.uk/,107,96,95
-110,New Century Hall,"34 Hanover St, Manchester M4 4AH",4,53.48626,-2.23922,1.0,https://www.creativetourist.com/venue/new-century/,https://newcenturymcr.com/,113,111,101
-111,Matt and Phreds,"64 Tib St, Manchester M4 1LW",4,53.48362,-2.23488,0.85,https://www.facebook.com/MattAndPhreds/photos_by,https://mattandphreds.com/,112,108,105
-112,Frog and Bucket,"102 Oldham St, Manchester M4 1LJ",4,53.48325,-2.23402,1.0,https://www.facebook.com/thefrogandbucket/photos_by,https://frogandbucket.com/,105,108,111
-113,Firehouse,"40 Swan St, Manchester M4 5JG",4,53.48572,-2.2347,1.0,https://www.facebook.com/Firehousemcr/photos_by,https://www.firehousemcr.com/,101,108,111
-114,The White Hotel,"Dickinson St, Salford M3 7LW",4,53.491909,-2.25183,1.0,https://www.vice.com/en/article/vbmdnm/salford-best-clubbing-in-uk,https://ra.co/clubs/112509,99,97,110
-115,The Star & Garter,"18-20 Fairfield St, Manchester M1 2QF",4,53.476108,-2.22754,1.0,https://www.creativetourist.com/venue/the-star-garter/,https://www.starandgarter.co.uk/,94,105,112
+12,The Pen And Pencil,"Fourways House, 57 Hilton St, Manchester M1 2EJ",0,53.48122,-2.2317,1.0,https://www.facebook.com/thepenandpencil,https://thepenandpencilnq.co.uk/,0,21,20
+13,Crazy Pedro’s,"55-57 Bridge St, M3 3BQ",3,53.481312,-2.25055,1.0,https://www.facebook.com/CrazyPedros,https://crazypedros.co.uk/manchester/,69,67,72
+14,Gaucho Manchester,"2A St Mary's St, Manchester M3 2LB",0,53.51145,-2.18211,1.0,https://www.facebook.com/GauchoMCR,https://gauchorestaurants.com/menus/manchester/,23,12,0
+15,Campo Blanco,"1 Moss Ln, Whitefield, Manchester M45 6QE",0,53.54806,-2.29226,1.0,https://www.facebook.com/campoblanco/about,https://www.campoblanco.co.uk/,16,18,7
+16,Menagerie,"New Bailey, Ground One, New Bailey St, Salford M3 5JL",0,53.48221,-2.25375,1.0,https://www.facebook.com/MenagerieMCR/about,https://menagerierestaurant.co.uk/,18,7,4
+17,Fress,"62 Oldham St, Manchester M4 1LE",0,53.48363,-2.23405,1.0,https://www.facebook.com/fressnq/about,https://fress.uk/,22,1,8
+18,Dishoom,"32 Bridge St, Manchester M3 3BT",0,53.481339,-2.25052,0.85,https://www.facebook.com/dishoommanchester/about,https://www.dishoom.com/manchester/,7,16,4
+19,Moose Coffee,"Barton Arcade, Manchester M3 2BW",0,53.47888,-2.24917,1.0,https://www.moosecoffee.co/,https://www.moosecoffee.co/,7,18,16
+20,Idle Hands Coffee,"35 Dale St, Manchester M1 2HF",0,53.48131,-2.23318,1.0,https://www.idlehandscoffee.com/,https://www.idlehandscoffee.com/,21,0,12
+21,Takk,"6 Tariff St, Manchester M1 2FF",0,53.481022,-2.23309,1.0,https://www.facebook.com/takkmcr/photos_by,https://takkmcr.com/,20,0,12
+22,Kong's,"101, 103 Oldham St, Manchester M4 1LW",0,53.48378,-2.23405,1.0,https://www.facebook.com/profile.php?id=100075906057462&sk=about,https://www.manchestersfinest.com/places/kongs-nq/,17,1,8
+23,Escape to Freight Island,"11 Baring St, Manchester M1 2PZ",0,53.47637,-2.22709,1.0,https://www.facebook.com/freightisland/about,https://www.escapetofreightisland.com/,12,21,20
+24,Manchester Art Gallery,"Mosley St, Manchester M2 3JL",1,53.479721,-2.24077,1.0,https://www.facebook.com/ManchesterArtGallery/photos_of,https://manchesterartgallery.org/,37,36,35
+25,HOME,"2 Tony Wilson Pl, Manchester M15 4FN",1,53.47398,-2.24569,0.85,https://www.facebook.com/HOMEmcr/photos_by,https://homemcr.org/,44,24,29
+26,Salford Museum and Art Gallery,"Crescent, Salford M5 4WU",1,53.481281,-2.29699,1.0,https://www.facebook.com/pages/Salford%20Museum%20and%20Art%20Gallery/143042155712756/photos/,https://salfordmuseum.com/,27,31,32
+27,The Lowry,"The Quays, Salford M50 3AZ",1,53.47165,-2.28797,1.0,https://en.wikipedia.org/wiki/The_Lowry,https://thelowry.com/,26,31,32
+28,The Whitworth,"Oxford Rd, Manchester M15 6ER",1,53.464081,-2.23148,1.0,https://www.facebook.com/thewhitworth/photos_by,https://www.whitworth.manchester.ac.uk/,29,34,25
+29,Holden Gallery,"Grosvenor Building, Metropolitan University, Cavendish St, Manchester M15 6BR",1,53.46938,-2.23967,1.0,https://www.facebook.com/HoldenGallery/photos_by,https://www.holdengallery.mmu.ac.uk/,25,28,34
+30,Gallery Oldham,"35 Greaves St, Oldham OL1 1AL",1,53.54067,-2.11021,1.0,https://www.manchestersfinest.com/uncategorized/exploring-art-greater-manchester-gallery-oldham/,https://hla.oldham.gov.uk/,40,39,41
+31,Factory International,"Aviva Studios, Water St, Manchester M3 4JQ",1,53.47807,-2.258031,0.85,https://www.facebook.com/factoryinternational/photos_by,https://factoryinternational.org/,25,37,34
+32,Pottery Corner,"34 Beech Rd, Chorlton-cum-Hardy, Greater, Manchester M21 9EL",1,53.43877,-2.28168,1.0,https://www.facebook.com/PotteryCornerChorlton/photos_by,https://www.potterycorner.co.uk/,27,33,63
+33,Seven Limes Pottery,"Unit 5, The, Windrush Millennium Centre, 70 Alexandra Rd, Manchester M16 7WD",1,53.46005,-2.25223,1.0,https://www.facebook.com/7limespottery/photos_by,https://7limes.co.uk/,34,25,29
+34,Clay Studio," 61 Old Birley St, Hulme, Manchester M15 5RF",1,53.46469,-2.24849,1.0,https://www.facebook.com/manchesterclaystudio/photos_by,https://www.claystudio.co.uk/,33,25,29
+35,Boom Battle Bar,"Unit 2A, The Printworks, 27 Withy Grove, Manchester M4 2BS",1,53.48454,-2.24093,1.0,https://www.facebook.com/media/set/?set=a.672571578217478&type=3,https://boombattlebar.com/uk/,37,36,24
+36,Virtual Hideout,"51 Church St, Manchester M4 1PD",1,53.483021,-2.2376,1.0,https://www.virginexperiencedays.co.uk/product/vr-experience-for-two-virtual-hideout-manchester,https://virtualhideoutmanchester.com/,41,35,24
+37,DNA VR,"30 Brown St, Manchester M2 1DH",1,53.48136,-2.24233,1.0,https://www.tripadvisor.co.uk/Attraction_Review-g187069-d25355092-Reviews-DNA_VR_Manchester-Manchester_Greater_Manchester_England.html,https://www.dnavr.co.uk/?gad_source=1&gclid=Cj0KCQjw5cOwBhCiARIsAJ5njuaUtjrNxE2ukZA3LRHoZ-WnQ4Hp0vCSmfGZz10UWnf4r7lIJG0ho5EaArtvEALw_wcB,24,35,36
+38,Sken Studios,"First Floor, 100 School Rd, Sale, M33 7XB",1,53.42503,-2.32145,1.0,https://www.skenstudios.com/workshops,https://www.skenstudios.com/,32,27,26
+39,Cork and Canvas,"23 Radium St, Ancoats, Manchester M4 6AY",1,53.48506,-2.22583,1.0,https://www.facebook.com/corkandcanvasmcr/photos,https://www.corkandcanvas.co.uk/,41,36,40
+40,Ma Lumiere,"2 Sawley Rd, Miles Platting, Manchester M40 8BB",1,53.49202,-2.21367,1.0,https://www.facebook.com/MaLumiereCandles/photos_by,https://www.malumiere.co.uk/workshops,39,41,36
+41,Northern Flower,"58 Tib St, Greater, Manchester M4 1LG",1,53.4835,-2.23507,1.0,https://www.facebook.com/northernflower/photos_by,https://northernflower.com/,36,35,24
+42,NQ64,"12 Tib St, Manchester M4 1SH",2,53.48331,-2.23551,1.0,https://www.facebook.com/NQ64mcr/photos_by,https://nq64.co.uk/,51,61,45
+43,Twenty Twenty Two,"The Basement, Little Lever St, Manchester M1 1EZ",2,53.48366,-2.23136,1.0,https://www.facebook.com/TTTMCR/photos_by,https://twentytwentytwo.co.uk/,58,54,55
+44,Junkyard Golf Club,"2 First St, Manchester M15 4RP",1,53.47398,-2.24569,1.0,https://www.manchesterbars.com/junkyardgolf.htm,https://www.junkyardgolfclub.co.uk/manchester/,25,24,29
+45,Pixel Bar,"10 Thomas St, Manchester M4 1DH",2,53.4843,-2.23708,1.0,https://www.facebook.com/PixelBarUK/photos_by,https://www.pixel-bar.co.uk/manchester,53,61,47
+46,The Temple of Convenience,"100 Great Bridgewater St, Manchester M1 5JW",2,53.47519,-2.24329,0.85,https://oxfordroadcorridor.com/venues/the-temple/,https://www.instagram.com/temple_mcr/,62,60,56
+47,Convenience Store,"100 High Street, Northern Quarter, M4 1HP",2,53.48408,-2.23834,1.0,https://www.facebook.com/CONstoreNQ/photos_by,https://www.conveniencestorenq.com/,52,45,61
+48,Blind Tyger,"Old Bank Street, Manchester",2,53.47516,-2.21378,1.0,https://www.facebook.com/blindtygermcr/photos,https://blindtyger.co.uk/blind-tyger-manchester/,50,43,49
+49,Northern Monk Refectory,"10 Tariff St, Manchester M1 2FF",2,53.481215,-2.232418,1.0,https://www.facebook.com/NMRefectoryMCR/photos_by,https://www.northernmonk.com/,55,54,43
+50,Cloudwater Unit 9,"7-8, Piccadilly Trading Estate, M1 2NP",2,53.47742,-2.22028,1.0,https://www.facebook.com/CloudwaterUnit9/photos_by,https://cloudwaterbrew.co/pages/visit-us,48,43,49
+51,Behind Closed Doors,"91-95 Oldham Street, Northern Quarter, Manchester, M4 1LW",2,53.48364,-2.23426,1.0,https://www.facebook.com/bcdnq/photos_by,https://bcdnq.com/,42,54,55
+52,The Washhouse,"19 Shudehill, M4 2AF",2,53.48465,-2.23944,1.0,https://www.facebook.com/washhousemcr/photos_by,https://www.washhousemcr.com/,47,45,61
+53,Cane and Grain,"Cane and Grain, 49-51 Thomas Street, Manchester M4 1N",2,53.4843,-2.23708,1.0,https://www.facebook.com/caneandgrainmcr/photos_by,https://caneandgrain.co.uk/,45,61,47
+54,Dusk til Pawn,"Dusk til Pawn, Stevenson Square, Northern Quarter",2,53.48314,-2.23288,1.0,https://www.facebook.com/Dusktilpawn/photos_by,https://www.dusktilpawn.co.uk/,55,51,43
+55,Hold Fast,"Hold Fast, Hatters Hostel, Newton Street (bar entrance on Hilton Street) M1 2EA",2,53.48212,-2.23256,1.0,https://www.facebook.com/holdfastbarnq/?locale=en_GB,https://www.facebook.com/holdfastbarnq/?locale=en_GB,49,54,43
+56,Corbieres,"Corbieres, 2 Half Moon Street, Manchester M2 7PB",2,53.48223,-2.2448,1.0,https://www.facebook.com/corbieresbar/photos_by,https://www.instagram.com/corbieresbar/?hl=en,62,60,57
+57,The Liars Club,"The Liars Club, Back Bridge Street, Manchester M3 2PB",2,53.4813,-2.24928,1.0,https://www.facebook.com/TheLiarsClubMCR/photos_by,https://www.theliarsclub.co.uk/,59,60,62
+58,The Fitzgerald,"The Fitzgerald, Little Lever Street, Manchester M1 1DB",2,53.48366,-2.23136,1.0,https://www.thefitzgeraldmanchester.com/gallery,https://www.thefitzgeraldmanchester.com/gallery,43,54,55
+59,Gas Lamp,"The Gas Lamp, Bridge Street, Manchester, M3 3BW",2,53.48134,-2.25052,0.85,https://www.facebook.com/thegaslamp/photos_by,https://www.thegaslampmanchester.co.uk/,57,60,62
+60,Arcane,"2 South King Street, Manchester, M2 6EX",2,53.48101,-2.24712,1.0,https://www.facebook.com/arcanebar/photos_by,https://cocktailbarmanchester.com/,62,57,56
+61,Terrace,"43 Thomas St, Manchester M4 1NA",2,53.484046,-2.236727,1.0,https://www.facebook.com/profile.php?id=100039828019257&sk=photos_by,https://www.instagram.com/nqterrace/?hl=en,45,42,47
+62,Wood and Company,"39 South King Street, Manchester, M2 6DE",2,53.48098,-2.24614,1.0,https://www.facebook.com/woodandcompanybar/photos_by,https://woodandcobar.com/,60,56,57
+63,Goodtime Games,"212 Burton Rd, West Didsbury, Manchester M20 2LW",1,53.42659,-2.24289,1.0,https://www.facebook.com/GoodtimeGames.Manc/photos_by,https://goodtimegames.co.uk/,33,34,28
+64,Happy Seasons,"59 Faulkner St, Manchester M1 4FF",3,53.477896,-2.240622,1.0,https://www.eatmcr.co.uk/featured/the-renaissance-of-happy-seasons/,https://happy-seasons.co.uk/,65,73,71
+65,I Am Pho,"44 George St, Manchester M1 4HF",3,53.479354,-2.240114,1.0,https://www.manchestersfinest.com/places/i-am-pho/,https://www.manchestersfinest.com/places/i-am-pho/,64,73,71
+66,Volta,"167 Burton Rd, West Didsbury, Manchester M20 2LN",3,53.42637,-2.24295,1.0,https://www.facebook.com/voltafoodanddrink/photos_by,https://www.voltafoodanddrink.co.uk/,80,9,84
+67,Tattu,"3 Hardman Square, Gartside St, M3 3EB.",3,53.47994,-2.25308,1.0,https://www.facebook.com/TattuMCR/photos_by,https://tattu.co.uk/locations/manchester/,72,13,69
+68,Bar San Juan,"56 Beech Rd, Chorlton-cum-Hardy, Manchester M21 9EG",3,53.43877,-2.28168,0.85,https://www.facebook.com/barsanjuantapas/photos_by,https://www.barsanjuan.com/,9,66,83
+69,Australasia,"1 The Avenue, Deansgate, Manchester M3 3AP",3,53.479949,-2.248663,1.0,https://www.facebook.com/australasia.manchester/photos_by,https://australasia.uk.com/,13,72,67
+70,The Edinburgh Castle,"17 Blossom St, Ancoats, Manchester M4 5EP",3,53.48415,-2.229839,1.0,https://www.facebook.com/ECAncoats/photos,https://www.ec-ancoats.com/,75,76,78
+71,Sicilian NQ Bar and Bistro,"14 Turner St, Manchester M4 1DZ",3,53.48358,-2.23747,1.0,https://www.facebook.com/SicilianFoodNQ/photos_by,https://www.siciliannq.com/,82,87,90
+72,20 Stories,"1 Hardman St, Manchester M3 3EB",3,53.478815,-2.252242,1.0,https://www.facebook.com/20storiesmcr/photos_by,https://20stories.co.uk/,67,13,69
+73,Bundobust Brewery,"St James's Bldg, Bundobust Brewery, 61-69 Oxford St, Manchester M1 6EQ",3,53.475197,-2.241586,1.0,https://www.facebook.com/bundobustmcr/photos_by,https://bundobust.com/manchester/,64,85,65
+74,Delhi House Cafe,"Unit 10 Exchange Sq, Manchester M4 3TR",3,53.48465,-2.243,1.0,https://www.facebook.com/delhihousecafe/photos_by,https://delhihousecafe.uk/,77,82,71
+75,Canto,"Cutting Room Square, Blossom St, Ancoats, Manchester M4 5DH",3,53.484145,-2.229757,0.85,https://www.facebook.com/cantomcr,https://www.cantorestaurant.com/food-and-drinks-menus/,70,76,78
+76,Elnecot,"Cutting Room Square, 41 Blossom St, Ancoats, Manchester, M4 6AJ",3,53.48436,-2.22947,1.0,https://www.facebook.com/elnecot/photos_by,https://elnecot.com/,86,75,70
+77,Wholesome Junkies,"Unit 4 Mirabel St, Manchester M3 1PJ",3,53.4877,-2.24619,1.0,https://www.facebook.com/Wholesomejunkies/photos_by,https://www.wholesomejunkies.co.uk/,74,13,69
+78,Erst,"9 Murray St, Ancoats, Manchester M4 6HS",3,53.48427,-2.22746,1.0,https://www.facebook.com/erstmcr/photos,https://www.erst-mcr.co.uk/,89,76,75
+79,Where The Light Gets In,"7 Rostron Brow, Stockport SK1 1JY",3,53.41087,-2.1559,1.0,https://www.facebook.com/pages/Where%20the%20Light%20Gets%20in/1203803073020584/photos/,https://www.wtlgi.co/,80,84,66
+80,Hispi,"1C School Ln, Didsbury, Manchester M20 6RD",3,53.41743,-2.22902,1.0,https://www.facebook.com/HISPIDidsbury/photos_by,https://www.hispi.net/,66,84,9
+81,Dokes Pizzeria,"449A Bury New Rd, Prestwich, Manchester M25 1AF",3,53.53233,-2.28485,1.0,https://www.facebook.com/profile.php?id=100083278001859&sk=photos,https://www.dokespizzeria.co.uk/,77,67,13
+82,Salvi's NQ,"60-67A High St, Manchester M4 1FS",3,53.48421,-2.23815,1.0,https://www.creativetourist.com/venue/salvi-s-northern-quarter/,https://salvismanchester.co.uk/restaurants/salvis-nq/,71,87,90
+83,Wood,"Jack Rosenthal St, Manchester M15 4RA",3,53.473406,-2.246546,0.85,https://woodrestaurantgroup.com/about/,https://woodrestaurantgroup.com/about/,85,73,69
+84,Ziya,"65-67 Wilmslow Rd, Manchester M14 5TB",3,53.456208,-2.225531,1.0,https://www.facebook.com/ziyarestaurant/photos_by,https://ziyarestaurant.co.uk/,85,73,64
+85,Zouk,"5, The Quadrangle, Chester St, Manchester M1 5QS",3,53.4716,-2.24233,1.0,https://www.facebook.com/ZoukTeaBar/photos_by,https://zoukteabar.co.uk/,73,83,64
+86,The Hip Hop Chip Shop,"44 Blossom St, Ancoats, Manchester M4 6BF",3,53.48436,-2.22947,1.0,https://www.facebook.com/thehiphopchipshop/photos_by,https://thehiphopchipshop.com/,76,75,70
+87,63 Degrees,"104 High St, Manchester M4 1HQ",3,53.484692,-2.23671,1.0,https://www.facebook.com/63degreespako/photos_by,https://63degrees.co.uk/,71,82,90
+88,The Little Yeti,"495 Barlow Moor Rd, Chorlton-cum-Hardy, Manchester M21 8AG",3,53.43246,-2.27027,1.0,https://www.facebook.com/littleyetimcr/photos_by,https://www.littleyetimcr.com/,9,32,66
+89,Rigatoni's,"46 Blossom St, Ancoats, Manchester M4 6BA",3,53.484989,-2.227076,1.0,https://www.facebook.com/rigatonisancoats/photos_by,https://www.letsrigatoni.co.uk/,78,76,75
+90,Birria Brothers,"84-86 Oldham St, Northern Quarter, Manchester M4 1LE",3,53.484123,-2.233392,1.0,https://www.instagram.com/birria_brothers_tacos/?hl=en,https://www.birriabrotherstacos.co.uk/,87,70,75
+91,Depot Mayfield,"11 Baring St, Manchester M1 2PY",4,53.47511,-2.22782,1.0,https://www.facebook.com/depotmayfield/photos_by,https://depotmayfield.com/,112,106,102
+92,Gorilla,"54-56 Whitworth St, Manchester M1 5WW",4,53.474018,-2.24657,1.0,https://www.facebook.com/gorilla.bar.kitchen.stage.club/photos_by,https://www.thisisgorilla.com/,103,97,104
+93,Deaf Institute,"135 Grosvenor St, Manchester M1 7HE",4,53.47015,-2.23712,1.0,https://confidentialguides.com/things-to-do/attractions/music-venues/the-deaf-institute-manchester-restaurant/,https://www.thedeafinstitute.co.uk/,104,106,28
+94,Eagle Inn,"19 Collier St, Salford M3 7DW",4,53.48746,-2.25121,1.0,https://www.facebook.com/eagleinnsalford/photos_by,https://eagleinn.co.uk/,96,111,97
+95,Manchester Academy,"Manchester University Students Union, Oxford Rd, Manchester M13 9PR",4,53.464081,-2.23148,1.0,https://www.facebook.com/manchesteracademy/photos_by,https://www.manchesteracademy.net/,100,93,91
+96,Hidden,"16-18 Mary St, Cheetham Hill, Manchester M3 1NH",4,53.490082,-2.24911,1.0,https://www.facebook.com/hddenmcr/photos_by,https://hiddenmcr.com/,111,94,107
+97,Albert Hall,"City Centre, 27 Peter St, Manchester M2 5QR",4,53.478142,-2.24795,1.0,https://www.facebook.com/alberthallmanchester/photos_by,https://www.alberthallmanchester.com/,92,94,104
+98,Band On The Wall,"25 Swan St, Manchester M4 5JZ",4,53.48522,-2.23391,1.0,https://www.facebook.com/bandonthewall/photos_by,https://bandonthewall.org/,110,105,102
+99,The Loft MCR,"Unit One New St, Manchester M40 8AW",4,53.49507,-2.20788,0.85,https://www.facebook.com/theloftmcr/photos,https://ra.co/clubs/190058,112,98,91
+100,Big Hands,"296 Oxford Rd, Manchester M13 9NS",4,53.462959,-2.23008,1.0,https://www.facebook.com/BigHandsBar/?locale=en_GB,https://www.facebook.com/BigHandsBar/?locale=en_GB,28,93,91
+101,Cafe Blah,"418 Wilmslow Rd, Withington, Manchester M20 3BW",4,53.43516,-2.22743,1.0,https://www.facebook.com/cafeblah/?locale=en_GB,https://www.facebook.com/cafeblah/?locale=en_GB,100,28,93
+102,Soup,"31-33 Spear St, Manchester M1 1DF",4,53.483398,-2.23358,1.0,https://www.facebook.com/soupmanchester/photos,https://www.soupmanchester.com/,109,105,108
+103,O2 Ritz,"Whitworth St W, Manchester M1 5NQ",4,53.474018,-2.24657,1.0,https://www.facebook.com/o2ritzmanchester/photos_by,https://www.academymusicgroup.com/o2ritzmanchester/,92,97,104
+104,YES,"38 Charles St, Manchester M1 7DB",4,53.473949,-2.23827,1.0,https://www.facebook.com/yesmanchester/photos_by,https://www.yes-manchester.com/,106,93,92
+105,Gullivers,"109 Oldham St, Manchester M4 1LW",4,53.483871,-2.23393,1.0,https://www.mdmarchive.co.uk/artefact/13829/Blossoms-Gullivers-Photograph-2014,https://gulliversnq.info/,102,109,108
+106,Jashua Brooks,"106 Princess St, Manchester M1 6NG",4,53.47437,-2.23746,1.0,https://www.facebook.com/joshuabrooksmanchester/photos_by,https://joshuabrooks.co.uk/,104,93,92
+107,New Century Hall,"34 Hanover St, Manchester M4 4AH",4,53.48626,-2.23922,1.0,https://www.creativetourist.com/venue/new-century/,https://newcenturymcr.com/,110,108,98
+108,Matt and Phreds,"64 Tib St, Manchester M4 1LW",4,53.48362,-2.23488,0.85,https://www.facebook.com/MattAndPhreds/photos_by,https://mattandphreds.com/,109,105,102
+109,Frog and Bucket,"102 Oldham St, Manchester M4 1LJ",4,53.48325,-2.23402,1.0,https://www.facebook.com/thefrogandbucket/photos_by,https://frogandbucket.com/,102,105,108
+110,Firehouse,"40 Swan St, Manchester M4 5JG",4,53.48572,-2.2347,1.0,https://www.facebook.com/Firehousemcr/photos_by,https://www.firehousemcr.com/,98,105,108
+111,The White Hotel,"Dickinson St, Salford M3 7LW",4,53.491909,-2.25183,1.0,https://www.vice.com/en/article/vbmdnm/salford-best-clubbing-in-uk,https://ra.co/clubs/112509,96,94,107
+112,The Star & Garter,"18-20 Fairfield St, Manchester M1 2QF",4,53.476108,-2.22754,1.0,https://www.creativetourist.com/venue/the-star-garter/,https://www.starandgarter.co.uk/,91,102,109
