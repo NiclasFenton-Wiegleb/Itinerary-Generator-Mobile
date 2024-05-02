@@ -235,6 +235,20 @@ def map_layout():
     }
     </style>''', unsafe_allow_html=True)
 
+#padding for app
+def app_layout():
+
+    st.markdown("""
+        <style>
+            .block-container {
+                    padding-top: 5rem;
+                    padding-bottom: 10rem;
+                }
+        </style>
+        """, unsafe_allow_html=True)
+
+app_layout()
+
 fonts()
 fix_mobile_columns()
 
