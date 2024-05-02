@@ -196,11 +196,20 @@ def fix_vertical_scroll():
     }
     </style>''', unsafe_allow_html=True)
 
+#Control button font and size
+def font_size_button():
+    st.write('''<style>
+    [data-testid="stMarkdownContainer"] {
+        font-size: 20px;
+    }
+    </style>''', unsafe_allow_html=True)
+
 fix_mobile_columns()
 
 col1,col2, col3 = st.columns([1,1,1], gap="small")
 
 # Button with callback function
+font_size_button()
 button = col2.button("Generate Itinerary", on_click=select_route)
 
 if st.session_state.button[1] == True:
