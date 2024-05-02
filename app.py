@@ -217,7 +217,7 @@ def fonts():
 fonts()
 fix_mobile_columns()
 
-col1,col2, col3 = st.columns([1,2,1], gap="small")
+col1,col2, col3 = st.columns([1,3,1], gap="small")
 
 # Button with callback function
 button_txt = "Generate"
