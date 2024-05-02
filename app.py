@@ -200,7 +200,7 @@ def fix_vertical_scroll():
 def font_size_button():
     st.write('''<style>
     [data-testid="stMarkdownContainer"] {
-        font-size: 20px;
+        font-size: 40px;
     }
     </style>''', unsafe_allow_html=True)
 
