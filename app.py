@@ -196,6 +196,15 @@ def fix_vertical_scroll():
     }
     </style>''', unsafe_allow_html=True)
 
+# Select fonts
+def fonts():
+    st.write('''<style>
+    p {
+    font-family: "Gill Sans";
+    font-size: 14px
+    }
+    </style>''', unsafe_allow_html=True)
+
 
 fix_mobile_columns()
 
