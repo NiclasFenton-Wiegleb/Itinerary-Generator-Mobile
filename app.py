@@ -203,6 +203,7 @@ def fonts():
     st.write('''<style>
     h1 {
     font-family: "Basis Grotesque", sans-serif;
+    font-stretch: expanded;
     }
     </style>''', unsafe_allow_html=True)
 
@@ -210,7 +211,8 @@ def fonts():
     st.write('''<style>
     p {
     font-family: "Gill Sans", sans-serif;
-    font-size: 15px
+    font-stretch: expanded;
+    font-size: 15px;
     }
     </style>''', unsafe_allow_html=True)
 
