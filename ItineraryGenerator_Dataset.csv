@@ -1,7 +1,7 @@
 name,address,hierarchy,lat_coordinates,long_coordinates,weighting,img_source,link
 Ezra & Gil,"Ezra & Gil, 20 Hilton St, Manchester M1 1FR",0,53.4821,-2.2327,1,https://www.manchestersfinest.com/eating-and-drinking/best-breakfast-and-brunch-spots-in-manchester/,https://ezraandgil.com/
 Another Heart to Feed,"Another Heart to Feed, 220 Burton Rd, Manchester M20 2LW",0,53.482963,-2.234612,1,https://www.manchestersfinest.com/eating-and-drinking/best-breakfast-and-brunch-spots-in-manchester/,https://anotherhearttofeed.co.uk/
-TROVE,"1032 Stockport Rd, Manchester M19 3WX",0,53.441223,-2.189091,1,https://www.manchestersfinest.com/eating-and-drinking/best-breakfast-and-brunch-spots-in-manchester/,
+TROVE,"1032 Stockport Rd, Manchester M19 3WX",0,53.441223,-2.189091,1,https://www.manchestersfinest.com/eating-and-drinking/best-breakfast-and-brunch-spots-in-manchester/,https://www.trovefoods.co.uk/our-cafes
 Blanchflower,"Blanchflower, 12-14 Shaw’s Rd, Altrincham WA14 1QU",0,53.387457,-2.351286,1,https://www.manchestersfinest.com/eating-and-drinking/best-breakfast-and-brunch-spots-in-manchester/,https://www.blanchflower.co/
 Federal,"Federal, 9 Nicholas Croft, Northern Quarter, Manchester, M4 1EY",0,53.484357,-2.238722,1,https://www.manchestersfinest.com/eating-and-drinking/best-breakfast-and-brunch-spots-in-manchester/,https://federalcafe.co.uk/
 Mackey Mayor,"Smithfield Market Hall, 1 Eagle St, Manchester M4 5BU",0,53.48549,-2.235277,0.8,https://buttress.net/projects/mackie-mayor,https://www.instagram.com/mackiemayor/
@@ -13,7 +13,6 @@ Evelyn’s,"44 Tib St, Manchester M4 1LA",0,53.483089,-2.23579,0.85,https://www.
 Fig + Sparrow,"20 Oldham St, Manchester M1 1JA",0,53.482544,-2.235647,1,https://www.facebook.com/FigSparrow/photos_by,https://www.instagram.com/figsparrow/?hl=en
 The Pen And Pencil,"Fourways House, 57 Hilton St, Manchester M1 2EJ",0,53.48122,-2.2317,1,https://www.facebook.com/thepenandpencil,https://thepenandpencilnq.co.uk/
 Crazy Pedro’s,"55-57 Bridge St, M3 3BQ",3,53.481312,-2.25055,1,https://www.facebook.com/CrazyPedros,https://crazypedros.co.uk/manchester/
-Gaucho Manchester,"2A St Mary's St, Manchester M3 2LB",0,53.51145,-2.18211,1,https://www.facebook.com/GauchoMCR,https://gauchorestaurants.com/menus/manchester/
 Campo Blanco,"1 Moss Ln, Whitefield, Manchester M45 6QE",0,53.54806,-2.29226,1,https://www.facebook.com/campoblanco/about,https://www.campoblanco.co.uk/
 Menagerie,"New Bailey, Ground One, New Bailey St, Salford M3 5JL",0,53.48221,-2.25375,1,https://www.facebook.com/MenagerieMCR/about,https://menagerierestaurant.co.uk/
 Fress,"62 Oldham St, Manchester M4 1LE",0,53.48363,-2.23405,1,https://www.facebook.com/fressnq/about,https://fress.uk/
@@ -29,7 +28,6 @@ Salford Museum and Art Gallery,"Crescent, Salford M5 4WU",1,53.481281,-2.29699,1
 The Lowry,"The Quays, Salford M50 3AZ",1,53.47165,-2.28797,1,https://en.wikipedia.org/wiki/The_Lowry,https://thelowry.com/
 The Whitworth,"Oxford Rd, Manchester M15 6ER",1,53.464081,-2.23148,1,https://www.facebook.com/thewhitworth/photos_by,https://www.whitworth.manchester.ac.uk/
 Holden Gallery,"Grosvenor Building, Metropolitan University, Cavendish St, Manchester M15 6BR",1,53.46938,-2.23967,1,https://www.facebook.com/HoldenGallery/photos_by,https://www.holdengallery.mmu.ac.uk/
-Gallery Oldham,"35 Greaves St, Oldham OL1 1AL",1,53.54067,-2.11021,1,https://www.manchestersfinest.com/uncategorized/exploring-art-greater-manchester-gallery-oldham/,https://hla.oldham.gov.uk/
 Factory International,"Aviva Studios, Water St, Manchester M3 4JQ",1,53.47807,-2.258031,0.85,https://www.facebook.com/factoryinternational/photos_by,https://factoryinternational.org/
 Pottery Corner,"34 Beech Rd, Chorlton-cum-Hardy, Greater, Manchester M21 9EL",1,53.43877,-2.28168,1,https://www.facebook.com/PotteryCornerChorlton/photos_by,https://www.potterycorner.co.uk/
 Seven Limes Pottery,"Unit 5, The, Windrush Millennium Centre, 70 Alexandra Rd, Manchester M16 7WD",1,53.46005,-2.25223,1,https://www.facebook.com/7limespottery/photos_by,https://7limes.co.uk/
