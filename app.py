@@ -301,8 +301,8 @@ if st.session_state.button[1] == True:
                     st.markdown(f"""## {title_lst[x]}""")  # title
                     st.markdown(f"""### {dataset.name.iloc[stop]}""")  # name
                     st.image([image_1, image_2], caption= ["", f"""Source: {dataset.img_source.iloc[stop]}"""], width = 300, use_column_width= True) # images
-                    st.write(f"""Address: {dataset.address.iloc[stop]}""")  # address
-                    st.write(f"""Link: {dataset.link.iloc[stop]}""") #link to website
+                    st.markdown(f"""**Address:** {dataset.address.iloc[stop]}""")  # address
+                    st.markdown(f"""**Link:** {dataset.link.iloc[stop]}""") #link to website
 
                 long_lst[x] = dataset.long_coordinates.iloc[stop] #longitude
                 lat_lst[x] = dataset.lat_coordinates.iloc[stop] #latitude
