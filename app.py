@@ -211,6 +211,12 @@ def fonts():
     h1 {
     font-family: "Basis Grotesque", sans-serif;
     }
+    h2 {
+    font-family: "Basis Grotesque", sans-serif;
+    }
+    h3 {
+    font-family: "Basis Grotesque", sans-serif;
+    }
     </style>''', unsafe_allow_html=True)
 
     #paragraphs
