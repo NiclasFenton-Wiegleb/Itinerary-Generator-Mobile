@@ -202,7 +202,7 @@ fix_mobile_columns()
 col1,col2, col3 = st.columns([1,1,1], gap="small")
 
 # Button with callback function
-button_txt = st.markdown("Generate")
+button_txt = "Generate"
 button = col2.button(button_txt, on_click=select_route)
 
 if st.session_state.button[1] == True:
