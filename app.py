@@ -226,7 +226,7 @@ def map_layout():
 
     #folium map style
     st.write('''<style>
-    .element-container {
+    [data-testid="element-container"] {
         diplay: block;
         margin-left: auto;
         margin-right: auto;
