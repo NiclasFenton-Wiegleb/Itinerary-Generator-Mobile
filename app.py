@@ -401,8 +401,8 @@ if st.session_state.button[1] == True:
             folium.Marker(location=[row['lat'],row['long']],
                             popup = popup, c=row['name']).add_to(m)
         
-
-        st_data = folium_static(m, width= 320)
+        with st.container():
+            st_data = folium_static(m, width= 320)
     
     except:
 
