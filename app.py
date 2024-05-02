@@ -250,7 +250,7 @@ def app_layout():
                     padding-top: 5rem;
                     padding-bottom: 10rem;
                     # padding-left: 0rem;
-                    padding-right: 3rem;
+                    padding-right: 2rem;
                 }
         </style>
         """, unsafe_allow_html=True)
