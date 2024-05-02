@@ -210,14 +210,14 @@ def fonts():
     st.write('''<style>
     p {
     font-family: "Gill Sans", sans-serif;
-    font-size: 18px
+    font-size: 15px
     }
     </style>''', unsafe_allow_html=True)
 
 fonts()
 fix_mobile_columns()
 
-col1,col2, col3 = st.columns([1,3,1], gap="small")
+col1,col2, col3 = st.columns([1,1,1], gap="small")
 
 # Button with callback function
 button_txt = "Generate"
