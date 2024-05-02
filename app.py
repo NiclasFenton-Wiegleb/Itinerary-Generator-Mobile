@@ -199,13 +199,13 @@ def fix_vertical_scroll():
 # Select fonts
 def fonts():
     
-    # #heading - h1
-    # st.write('''<style>
-    # h1 {
-    # font-family: "Basis Grotesque", sans-serif;
-    # font-stretch: expanded;
-    # }
-    # </style>''', unsafe_allow_html=True)
+    #heading - h1
+    st.write('''<style>
+    h1 {
+    font-family: "Basis Grotesque", sans-serif;
+    font-stretch: expanded;
+    }
+    </style>''', unsafe_allow_html=True)
 
     #paragraphs
     st.write('''<style>
