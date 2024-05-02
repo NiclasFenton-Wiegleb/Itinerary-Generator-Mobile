@@ -173,9 +173,9 @@ def select_route():
 def fix_mobile_columns():    
     st.write('''<style>
     [data-testid="column"] {
-        width: calc(20% - 1rem) !important;
-        flex: 1 1 calc(20% - 1rem) !important;
-        min-width: calc(20% - 1rem) !important;
+        width: calc(16.666667% - 1rem) !important;
+        flex: 1 1 calc(16.666667% - 1rem) !important;
+        min-width: calc(16.666667% - 1rem) !important;
     }
     </style>''', unsafe_allow_html=True)
 
@@ -210,7 +210,7 @@ def fonts():
     st.write('''<style>
     p {
     font-family: "Gill Sans", sans-serif;
-    font-size: 16px
+    font-size: 15px
     }
     </style>''', unsafe_allow_html=True)
 
