@@ -210,7 +210,7 @@ def fonts():
     st.write('''<style>
     p {
     font-family: "Gill Sans", sans-serif;
-    font-size: 14px
+    font-size: 18px
     }
     </style>''', unsafe_allow_html=True)
 
