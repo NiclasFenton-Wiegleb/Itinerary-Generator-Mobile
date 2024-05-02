@@ -200,7 +200,7 @@ def fix_vertical_scroll():
 def fonts():
     st.write('''<style>
     p {
-    font-family: "Gill Sans";
+    font-family: "Gill Sans", sans-serif;
     font-size: 14px
     }
     </style>''', unsafe_allow_html=True)
