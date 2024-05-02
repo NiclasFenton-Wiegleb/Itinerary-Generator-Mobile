@@ -198,7 +198,7 @@ def fix_vertical_scroll():
 
 #Control button font and size
 def font_size_button():
-    st.write('''<style>
+    st.markdown('''<style>
     [data-testid="stMarkdownContainer"] {
         font-size: 40px;
     }
