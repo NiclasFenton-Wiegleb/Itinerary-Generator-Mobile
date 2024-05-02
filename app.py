@@ -230,6 +230,7 @@ def map_layout():
         diplay: block;
         margin-left: auto;
         margin-right: auto;
+        padding-bottom: 30px;
         width: 70%;
     }
     </style>''', unsafe_allow_html=True)
@@ -372,7 +373,7 @@ if st.session_state.button[1] == True:
             iframe = folium.IFrame(pop_txt)
                 
             #Initialise the popup using the iframe
-            popup = folium.Popup(iframe, min_width=200, max_width=200)
+            popup = folium.Popup(iframe, min_width=400, max_width=400)
                 
             #Add each row to the map
             folium.Marker(location=[row['lat'],row['long']],
