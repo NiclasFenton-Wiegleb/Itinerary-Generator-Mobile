@@ -205,7 +205,7 @@ def fonts():
     }
     </style>''', unsafe_allow_html=True)
 
-
+fonts()
 fix_mobile_columns()
 
 col1,col2, col3 = st.columns([1,1,1], gap="small")
