@@ -226,7 +226,7 @@ def map_layout():
 
     #folium map style
     st.write('''<style>
-    [data-testid="element-container"] {
+    [data-testid="stIFrame"] {
         diplay: block;
         margin-left: auto;
         margin-right: auto;
