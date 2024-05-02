@@ -243,6 +243,8 @@ def app_layout():
             .block-container {
                     padding-top: 5rem;
                     padding-bottom: 10rem;
+                    padding-left: 2rem;
+                    padding-right: 2rem;
                 }
         </style>
         """, unsafe_allow_html=True)
