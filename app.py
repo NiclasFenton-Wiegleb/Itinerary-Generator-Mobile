@@ -199,7 +199,7 @@ def fix_vertical_scroll():
 #Control button font and size
 def font_size_button():
     st.markdown('''<style>
-    [data-testid="stMarkdownContainer"] {
+    ."st-emotion-cache-10fz31s e1nzilvr5" {
         font-size: 40px;
     }
     </style>''', unsafe_allow_html=True)
