@@ -222,6 +222,18 @@ def fonts():
     }
     </style>''', unsafe_allow_html=True)
 
+def map_layout():
+
+    #folium map style
+    st.write('''<style>
+    .folium-map {
+        diplay: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 70%;
+    }
+    </style>''', unsafe_allow_html=True)
+
 fonts()
 fix_mobile_columns()
 
