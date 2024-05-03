@@ -1,21 +1,21 @@
 original_index,name,stop_1,stop_2,stop_3,stop_4,stop_5
-0,Ezra & Gil,0,26,47,75,104
-1,Another Heart to Feed,1,26,47,75,104
-2,TROVE,2,40,55,78,103
-3,Blanchflower,3,37,42,79,104
-4,Federal,4,35,46,83,93
-5,Mackie Mayor,5,26,47,75,104
-6,The Refuge,6,26,47,75,104
-7,Platzki,7,26,47,75,104
-8,The Koffee Pot,8,39,50,84,105
-10,Evelyn’s,10,26,47,75,104
-11,Fig + Sparrow,11,26,47,75,104
-12,The Pen And Pencil,12,39,50,75,104
-14,Menagerie,14,27,44,68,93
-15,Fress,15,39,50,13,108
-16,Dishoom,16,26,47,75,104
-17,Moose Coffee,17,26,47,75,104
-18,Idle Hands Coffee,18,26,47,75,104
-19,Takk,19,26,47,75,104
-20,Kong's,20,26,47,75,104
-21,Escape to Freight Island,21,29,45,88,108
+0,Ezra & Gil,0,25,58,65,103
+1,Another Heart to Feed,1,40,54,83,109
+2,TROVE,2,62,60,78,102
+3,Blanchflower,3,39,56,88,102
+4,Federal,4,29,59,63,90
+5,Mackie Mayor,5,29,59,13,100
+6,The Refuge,6,32,54,89,90
+7,Platzki,7,29,59,88,102
+8,The Koffee Pot,8,29,59,82,105
+10,Evelyn’s,10,40,54,64,109
+11,Fig + Sparrow,11,24,44,70,104
+12,The Pen And Pencil,12,29,59,80,90
+14,Menagerie,14,26,53,75,99
+15,Fress,15,32,54,67,100
+16,Dishoom,16,23,53,83,109
+17,Moose Coffee,17,25,58,65,109
+18,Idle Hands Coffee,18,28,53,79,101
+19,Takk,19,32,54,68,102
+20,Kong's,20,40,54,77,90
+21,Escape to Freight Island,21,29,59,82,105
