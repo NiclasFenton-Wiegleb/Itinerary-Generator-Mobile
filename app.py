@@ -11,8 +11,9 @@ import streamlit.components.v1 as components  # Import Streamlit
 st.title("Manchester: Make Your Day!")
 
 intro_txt = f"""Are you visiting Manchester? Do you live here and want to explore some new things to do in the city?
-Check out this AI generator to plan your day out! It's constantly updated with the latest recommendations and exciting new places.
-And if you already know some of the recommendations, use the arrows to find somewhere else close by."""
+Check out this AI generator to plan your day out! It gives you an itinerary starting with **brunch**, then a fun **activity**, **afternoon drinks**,
+**dinner**, and a big **night out** to round it all off. The recommendations are constantly updated and if you already know some of the suggested places,
+simply use the arrows to find somewhere else close by."""
 
 st.markdown(intro_txt)
 
